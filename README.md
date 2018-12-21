@@ -10,8 +10,9 @@ All the details about this project are well explained in this [document](/thesis
 
 ## Quick start
 
-You can find all the models in folder "models" , as you can see from the documentation we have 5 different models (you can find a detailed description of them in document mentioned above).
-The folder "results" contained the final results of the last model (model 5) and there is a 10x10 matrix for each article, while the folder "medvedeva" contains the results obtained by applying an approach as it is described in this [paper](http://martijnwieling.nl/files/Medvedeva-submitted.pdf). The other notebook [Correletd t-test](https://github.com/daminienrico/automatic_juridical_decision_making/blob/master/Correlated%20t-test%20for%20comparing%20classifiers%20performance%20on%20the%20same%20dataset.ipynb) and [Hierarchical test.ipynb](https://github.com/daminienrico/automatic_juridical_decision_making/blob/master/Hierarchical%20test.ipynb) shows the Bayesian comparison between the two models. 
+You can find all the models in this [folder](automatic_juridical_decision_making/models/); as you can see from the documentation we have 5 different models (you can find a detailed description of them in document mentioned above).  
+The folder "results" contained the final results of the last model (model 5) and there is a 10x10 matrix for each article, while the folder "medvedeva" contains the results obtained by applying an approach as it is described in this [paper](http://martijnwieling.nl/files/Medvedeva-submitted.pdf).  
+The other notebook [Correletd t-test](https://github.com/daminienrico/automatic_juridical_decision_making/blob/master/Correlated%20t-test%20for%20comparing%20classifiers%20performance%20on%20the%20same%20dataset.ipynb) and [Hierarchical test.ipynb](https://github.com/daminienrico/automatic_juridical_decision_making/blob/master/Hierarchical%20test.ipynb) shows the Bayesian comparison between the two models.
  
 ## Requirements 
 
