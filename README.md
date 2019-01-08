@@ -2,7 +2,7 @@
 
 ## About
 
-In recent years, the potential to speed up legal processes via Machine Learning techniques has increased. Consequently, this study serves to investigate different NLP and ML methods. It does this by building a model that predicts whether or not an article of ECtHR has been violated. The most effective model , which consists of a Neural Network (for embedding the corpus) and a SVM (as classifier), reaches a total mean accuracy of 72%. 
+In recent years, the potential to speed up legal processes via Machine Learning techniques has increased. Consequently, this study serves to investigate different NLP and ML methods. It does this by building a model that predicts whether or not an article of ECtHR has been violated, based on the texts of the  published case law. The most effective model , which consists of a Neural Network (for embedding the corpus) and a SVM (as classifier), reaches a total mean accuracy of 72%. 
 
 ## References
 
